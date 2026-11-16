@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+scikit-learn
+torch
+transformers
+matplotlib
+seaborn
+joblib
+numpy
+sentencepiece
+protobuf
+scipy
+reportlab
+tqdm
